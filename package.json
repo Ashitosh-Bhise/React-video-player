@@ -2,7 +2,8 @@
   "name": "final_tutorial_vidchill",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
+  "scripts": 
+  {
     "build": "next build",
     "dev": "next dev",
     "postinstall": "prisma generate",
